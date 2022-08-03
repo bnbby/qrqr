@@ -1,0 +1,32 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  padding: 140px 560px;
+  width: auto;;
+    text-align: center
+
+}
+.outercontainer {
+  position: relative;
+  text-align: center;
+  background-color: white;
+  width:320px;
+  padding: 20px 20px 40px 20px;
+  border-radius: 10px;
+}
+
+
+img { width: 320px;
+border-radius: 10px;}
+
+
+h1 {
+  font-family: 'Outfit', serif;
+  font-size: 28px;
+padding-top: .5rem;}
+
+    p {
+    font-family: 'Outfit', serif;
+    font-size: 20px;
+    padding-top: 1rem;
+  color: hsl(220, 15%, 55%);
+}
